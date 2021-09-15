@@ -1,0 +1,1 @@
+This is Dante's first git project!
